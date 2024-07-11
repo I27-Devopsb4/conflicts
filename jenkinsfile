@@ -1,4 +1,6 @@
 // jenkins pipeline of a code
 pipeline {
+     agent{
+}
     
 }

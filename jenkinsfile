@@ -1,4 +1,11 @@
 // jenkins pipeline of a code
 pipeline {
+<<<<<<< HEAD
     added node slave
 }
+=======
+     agent{
+}
+    
+}
+>>>>>>> 713127e0011fddb4ccb57ce9a9994728b216d8d5
